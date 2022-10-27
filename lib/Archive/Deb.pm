@@ -1,5 +1,5 @@
 use warnings;
-use 5.020;
+use 5.022;
 use experimental qw( postderef signatures );
 
 package Archive::Deb {
